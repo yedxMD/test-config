@@ -9,5 +9,3 @@ spring:
           username: 
           password: 
           searchPaths: '{profile}'
-server:
-  port: 8888
